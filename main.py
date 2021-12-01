@@ -4,3 +4,5 @@ print("hello world!")
 # check attendance
 print("joechea")
 print("aupp")
+print("personal git")
+
